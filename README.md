@@ -11,3 +11,13 @@
 - 🎯 Goal: Build AI projects that help people
 
 > "Learning 1% every day"
+  ---
+
+## 🚀 My First Python Project
+
+### 1. AI Name Generator
+```python
+name = input("Tumhara naam kya hai? ")
+print("Welcome to AI,", name + "! 🤖")
+print("Future NUST Engineer 2026 ✨")
+```
